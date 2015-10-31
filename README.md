@@ -1,7 +1,7 @@
 # Contact
 How to contact me securely
 
-### email 
+### Email 
 
 joshk@riseup.net
 
