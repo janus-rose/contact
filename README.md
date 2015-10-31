@@ -1,5 +1,5 @@
 # Contact
-How to contact me securely using PGP and OTR
+How to contact me securely
 
 ### email 
 
