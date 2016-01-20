@@ -19,6 +19,10 @@ joshk@jabber.ccc.de
 
 B449DD29 7D3645B0 F2489616 EC5F0F68 358FB558
 
+### Ricochet IM (Anonymous chat)
+
+ricochet:y7gqhru7hefevybn
+
 ### PGP Public Key
 
 ```
