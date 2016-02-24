@@ -19,6 +19,12 @@ joshk@jabber.ccc.de
 
 B449DD29 7D3645B0 F2489616 EC5F0F68 358FB558
 
+### Signal
+
+Verify me on Signal using this QR code:
+
+![Signal fingerprint](https://raw.githubusercontent.com/lawfulintercept/contact/master/Signal-FP.png "Signal fingerprint")
+
 ### Ricochet IM (Anonymous chat)
 
 ricochet:y7gqhru7hefevybn
