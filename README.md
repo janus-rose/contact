@@ -23,7 +23,7 @@ B449DD29 7D3645B0 F2489616 EC5F0F68 358FB558
 
 Verify me on Signal using this QR code:
 
-![Signal fingerprint](https://raw.githubusercontent.com/lawfulintercept/contact/master/Signal-FP.png "Signal fingerprint")
+![Signal fingerprint](https://raw.githubusercontent.com/lawfulintercept/contact/master/Signal-FP.png "Signal fingerprint" {width=400px})
 
 ### Ricochet IM (Anonymous chat)
 
