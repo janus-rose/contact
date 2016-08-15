@@ -29,6 +29,10 @@ Verify me on Signal using this QR code:
 
 ricochet:y7gqhru7hefevybn
 
+### Bitmessage (Anonymous mail)
+
+BM-NBPwvxTe15Nyv8dsFmqFNQ4gM4AwisCL
+
 ### PGP Public Key
 
 ```
