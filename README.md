@@ -21,9 +21,17 @@ joshk@jabber.ccc.de
 
 ### Signal
 
-Verify me on Signal using this QR code:
+Verify me on <a href="https://signal.org>Signal</a> by scanning this code:
 
 <img src="https://raw.githubusercontent.com/lawfulintercept/contact/master/Signal-FP.png" width=400px>
+
+Fingerprint: 
+```
+05 2b 32 bc b2 99 6f 2c 5b
+8c b3 fa 66 b6 09 f8 92 7d
+b5 1c 77 b0 ed 03 90 b3 3e
+d5 9b fe 73 de 54
+```
 
 ### Ricochet IM (Anonymous chat)
 
