@@ -21,11 +21,11 @@ joshk@jabber.ccc.de
 
 ### Signal
 
-Verify me on <a href="https://signal.org>Signal</a> by scanning this code:
+Verify me on <a href="https://signal.org">Signal</a> by scanning this code:
 
 <img src="https://raw.githubusercontent.com/lawfulintercept/contact/master/Signal-FP.png" width=400px>
 
-Fingerprint: 
+Safety Numbers: 
 ```
 05 2b 32 bc b2 99 6f 2c 5b
 8c b3 fa 66 b6 09 f8 92 7d
