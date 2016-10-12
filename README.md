@@ -13,25 +13,13 @@ joshk@riseup.net
 
 joshk@jabber.ccc.de
 
+
 #### OTR Fingerprints
 
 ```46A347F1 EA773A78 CB453295 D44DB473 816E9C03```
 
 ```B449DD29 7D3645B0 F2489616 EC5F0F68 358FB558```
 
-### Signal
-
-Verify me on <a href="https://signal.org">Signal</a> by scanning this code:
-
-<img src="https://raw.githubusercontent.com/lawfulintercept/contact/master/Signal-FP.png" width=400px>
-
-Safety Numbers: 
-```
-05 2b 32 bc b2 99 6f 2c 5b
-8c b3 fa 66 b6 09 f8 92 7d
-b5 1c 77 b0 ed 03 90 b3 3e
-d5 9b fe 73 de 54
-```
 
 ### Ricochet IM (Anonymous chat)
 
