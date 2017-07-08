@@ -1,6 +1,10 @@
 # Contact
 How to contact me securely
 
+### Signal
+
+PM me for my number on [Signal](https://signal.org)
+
 ### Email 
 
 janusk@riseup.net
